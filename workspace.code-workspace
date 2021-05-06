@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../web_dev_wd/fundamentos_js/simon_juego"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dataviz_py_js_eho"
+	}
+}
